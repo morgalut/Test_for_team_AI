@@ -67,8 +67,8 @@ Extend your system to allow users to **chat with a React frontend** and ask ques
 - ✅ Backend in **Python** (FastAPI preferred)
 - ✅ Adheres to **OOP structure** for API, data access layer, and chat logic
 - ✅ Uses Docker for both frontend and backend
-- ✅ Backend must pull data **only from the database** (LLM is not used in this step)
-- ✅ Clean modular architecture and routing in both React and Python
+- ✅ Backend must pull data **only from the database** 
+- ✅ Clean modular architecture and routing in Python
 - ✅ Include a **neat README** that explains:
    - How to start each container
    - Chat architecture
